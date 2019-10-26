@@ -10,7 +10,7 @@ public class LyApiGateway {
     public static void main(String[] args) {
         SpringApplication.run(LyApiGateway.class);
         System.out.println("wanggang1");
-        System.out.println("ceshi");
+        System.out.println("ceshi-wanggang");
         int num =10;
     }
 }
