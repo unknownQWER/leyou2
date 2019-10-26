@@ -10,5 +10,6 @@ public class LyApiGateway {
     public static void main(String[] args) {
         SpringApplication.run(LyApiGateway.class);
         System.out.println("ceshi");
+        int num =10;
     }
 }
