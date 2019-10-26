@@ -9,5 +9,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 public class LyApiGateway {
     public static void main(String[] args) {
         SpringApplication.run(LyApiGateway.class);
+        System.out.println("ceshi");
     }
 }
