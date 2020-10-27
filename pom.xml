@@ -6,7 +6,7 @@
 
     <groupId>cn.itcast</groupId>
     <artifactId>leyou2</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-SNAPSOT</version>
     <modules>
         <module>ly-registry</module>
         <module>ly-api-gateway</module>
